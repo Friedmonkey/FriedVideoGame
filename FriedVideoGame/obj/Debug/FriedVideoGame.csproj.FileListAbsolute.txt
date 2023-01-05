@@ -1,0 +1,14 @@
+C:\Users\Marti\source\repos\FriedVideoGame\FriedVideoGame\bin\Debug\FriedVideoGame.exe
+C:\Users\Marti\source\repos\FriedVideoGame\FriedVideoGame\bin\Debug\FriedVideoGame.pdb
+C:\Users\Marti\source\repos\FriedVideoGame\FriedVideoGame\obj\Debug\FriedVideoGame.csproj.AssemblyReference.cache
+C:\Users\Marti\source\repos\FriedVideoGame\FriedVideoGame\obj\Debug\FriedVideoGame.Properties.Resources.resources
+C:\Users\Marti\source\repos\FriedVideoGame\FriedVideoGame\obj\Debug\FriedVideoGame.csproj.GenerateResource.cache
+C:\Users\Marti\source\repos\FriedVideoGame\FriedVideoGame\obj\Debug\FriedVideoGame.csproj.CoreCompileInputs.cache
+C:\Users\Marti\source\repos\FriedVideoGame\FriedVideoGame\obj\Debug\FriedVideoGame.exe
+C:\Users\Marti\source\repos\FriedVideoGame\FriedVideoGame\obj\Debug\FriedVideoGame.pdb
+C:\Users\Marti\source\repos\FriedVideoGame\FriedVideoGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marti\source\repos\FriedVideoGame\FriedVideoGame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marti\source\repos\FriedVideoGame\FriedVideoGame\obj\Debug\FriedVideoGame.csproj.CopyComplete
+C:\Users\Marti\source\repos\FriedVideoGame\FriedVideoGame\obj\Debug\FriedVideoGame.LevelEditor.resources
+C:\Users\Marti\source\repos\FriedVideoGame\FriedVideoGame\obj\Debug\FriedVideoGame.GameForm.resources
+C:\Users\Marti\source\repos\FriedVideoGame\FriedVideoGame\bin\Debug\FriedVideoGame.exe.config
